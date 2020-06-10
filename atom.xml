@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qingmu1105.github.io/</id>
     <title>Her Blog</title>
-    <updated>2019-06-08T15:05:06.178Z</updated>
+    <updated>2020-06-10T11:06:51.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qingmu1105.github.io/"/>
     <link rel="self" href="https://qingmu1105.github.io//atom.xml"/>
@@ -12,7 +12,27 @@ He&apos;ll labor night and day
 To be the pilgrim</subtitle>
     <logo>https://qingmu1105.github.io//images/avatar.png</logo>
     <icon>https://qingmu1105.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, Her Blog</rights>
+    <rights>All rights reserved 2020, Her Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[自在飞花轻似梦 无边丝语细如愁]]></title>
+        <id>https://qingmu1105.github.io//post/zi-zai-fei-hua-qing-si-meng-wu-bian-si-yu-xi-ru-chou</id>
+        <link href="https://qingmu1105.github.io//post/zi-zai-fei-hua-qing-si-meng-wu-bian-si-yu-xi-ru-chou">
+        </link>
+        <updated>2020-06-10T10:58:55.000Z</updated>
+        <summary type="html"><![CDATA[<p>Written on the birthday of one friend.</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Written on the birthday of one friend.</p>
+<!--more-->
+<p>版权归作者所有，任何形式转载请联系作者。
+作者：花吃（来自豆瓣）
+来源：https://www.douban.com/note/755973976/
+2020-03-25 20:39:03</p>
+<p>从2012年到2020年我不记得哪一个0325曾下雨，好像今天必是晴天。大约一个月前得知这位好朋友已结婚，而我小肚鸡肠到说不出祝福。而今天下雨了。</p>
+<p>在看电视剧中明白的一个道理是，人最终的结局只有失去，因而最重要的是当下。当我想跟另一位朋友重新讲话，想要为即将到来的告别做好铺垫时，我要做的，除了克服当前的惯性：在任何相遇的场景中无视对方外，还需说服自己：遗忘即背叛，遗忘了什么又背叛了谁或什么。</p>
+<p>在想“遗忘”这个问题时，最近去世的杨牧有一首诗《给时间》也许能让我有新的理解。</p>
+<p>庄老师问我心情好不好。我说好。实际上不好。我几乎在忍着才不把我要离职的想法说出口。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello GitHub]]></title>
         <id>https://qingmu1105.github.io//post/hello-github</id>
@@ -20,6 +40,19 @@ To be the pilgrim</subtitle>
         </link>
         <updated>2019-06-05T15:39:26.000Z</updated>
         <content type="html"><![CDATA[<p>Hello Github</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://qingmu1105.github.io//post/about</id>
+        <link href="https://qingmu1105.github.io//post/about">
+        </link>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<p>活到而立之年，疑惑却越来越多。
+也许这才证明我正活着。
+我求什么？
+解答我的疑惑，
+并找到值得探索的。</p>
 ]]></content>
     </entry>
 </feed>
