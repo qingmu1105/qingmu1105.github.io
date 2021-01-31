@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qingmu1105.github.io/</id>
     <title>Her Blog</title>
-    <updated>2020-07-02T14:46:15.798Z</updated>
+    <updated>2021-01-31T09:02:30.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qingmu1105.github.io/"/>
     <link rel="self" href="https://qingmu1105.github.io/atom.xml"/>
@@ -12,7 +12,86 @@ He&apos;ll labor night and day
 To be the pilgrim</subtitle>
     <logo>https://qingmu1105.github.io/images/avatar.png</logo>
     <icon>https://qingmu1105.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Her Blog</rights>
+    <rights>All rights reserved 2021, Her Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[happy 30s]]></title>
+        <id>https://qingmu1105.github.io/post/happy-30s/</id>
+        <link href="https://qingmu1105.github.io/post/happy-30s/">
+        </link>
+        <updated>2020-08-19T14:32:49.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="前言的前言">前言的前言</h1>
+<ol>
+<li>前言</li>
+<li>20s我做了啥，懂了啥？
+<ol>
+<li>非常boring的大学后两年</li>
+<li>研究生阶段<br>
+跟实验室的同学玩得很开心<br>
+网络新朋友<br>
+开始跑步时开启人生新篇章<br>
+kindle真好</li>
+<li>工作<br>
+昙花一现的感情我抓不住是时机不对<br>
+悟以往之不谏，知来者之可追，当年一语成谶<br>
+以轻度抑郁状态结束了工作</li>
+<li>生活<br>
+喝了很多的酒<br>
+去看了一些风景<br>
+读了一些书<br>
+如何度过裸辞的过渡期</li>
+</ol>
+</li>
+<li>30s要做什么？
+<blockquote>
+<p>想把自己当作方法，用成长型思维锻造下自己，看看自己还能进步到哪里。<br>
+说白了就是不放弃治疗。<br>
+如果放弃治疗，我猜我会放弃生命。</p>
+</blockquote>
+</li>
+<li>我的当前
+<blockquote>
+<p>总体是处于我的理想状态：新的生活环境和以英文为主的工作环境。但还是要克服困难。</p>
+</blockquote>
+</li>
+</ol>
+<pre><code>&gt;   从南京搬到苏州，租了条件很好的房子，买了很贵的电压力锅，组装了书桌和书架，跟猫咪的感情也日益加深。
+</code></pre>
+<blockquote>
+<p>但工作时无法融入新集体，还没适应外企工作状态。<br>
+处于担心无法适应工作而被迫离开的情况。</p>
+</blockquote>
+<ol start="2">
+<li>where do you see yourself in 5 years?</li>
+</ol>
+<blockquote>
+<p>3年之后的全栈工程师／5年之后的架构师</p>
+</blockquote>
+<ol start="4">
+<li>how to plan my 40s</li>
+</ol>
+<blockquote>
+<p>只有一个愿望，那就是去读MFA。</p>
+</blockquote>
+<ol start="5">
+<li>人生结束于何处？</li>
+</ol>
+<blockquote>
+<p>最后一个愿望实现的时候</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[正在学习的课程]]></title>
+        <id>https://qingmu1105.github.io/post/zheng-zai-xue-xi-de-ke-cheng/</id>
+        <link href="https://qingmu1105.github.io/post/zheng-zai-xue-xi-de-ke-cheng/">
+        </link>
+        <updated>2020-07-15T06:42:15.000Z</updated>
+        <content type="html"><![CDATA[<p>[Coursera-Design patterns]<br>
+[Coursera-SOA]<br>
+[Geektime-算法与数据结构之美]<br>
+[7天算法训练营]</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[梦中家园]]></title>
         <id>https://qingmu1105.github.io/post/meng-zhong-jia-yuan/</id>
