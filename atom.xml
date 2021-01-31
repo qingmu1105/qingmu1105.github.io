@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qingmu1105.github.io/</id>
     <title>Her Blog</title>
-    <updated>2021-01-31T09:10:26.778Z</updated>
+    <updated>2021-01-31T09:41:45.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qingmu1105.github.io/"/>
     <link rel="self" href="https://qingmu1105.github.io/atom.xml"/>
@@ -19,62 +19,52 @@ To be the pilgrim</subtitle>
         <link href="https://qingmu1105.github.io/post/happy-30s/">
         </link>
         <updated>2020-08-19T14:32:49.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="前言的前言">前言的前言</h1>
-<ol>
-<li>前言</li>
-<li>20s我做了啥，懂了啥？
-<ol>
-<li>非常boring的大学后两年</li>
-<li>研究生阶段<br>
-跟实验室的同学玩得很开心<br>
-网络新朋友<br>
-开始跑步时开启人生新篇章<br>
-kindle真好</li>
-<li>工作<br>
-昙花一现的感情我抓不住是时机不对<br>
-悟以往之不谏，知来者之可追，当年一语成谶<br>
-以轻度抑郁状态结束了工作</li>
-<li>生活<br>
-喝了很多的酒<br>
-去看了一些风景<br>
-读了一些书<br>
-如何度过裸辞的过渡期</li>
-</ol>
-</li>
-<li>30s要做什么？
-<blockquote>
-<p>想把自己当作方法，用成长型思维锻造下自己，看看自己还能进步到哪里。<br>
-说白了就是不放弃治疗。<br>
-如果放弃治疗，我猜我会放弃生命。</p>
-</blockquote>
-</li>
-<li>我的当前
-<blockquote>
-<p>总体是处于我的理想状态：新的生活环境和以英文为主的工作环境。但还是要克服困难。</p>
-</blockquote>
-</li>
-</ol>
-<pre><code>&gt;   从南京搬到苏州，租了条件很好的房子，买了很贵的电压力锅，组装了书桌和书架，跟猫咪的感情也日益加深。
+        <content type="html"><![CDATA[<h2 id="前言">前言</h2>
+<h2 id="20s我做了啥懂了啥">20s我做了啥，懂了啥？</h2>
+<h3 id="非常boring的大学后两年">非常boring的大学后两年</h3>
+<pre><code>    1. 学到的专业知识都忘了，倒是遇到的作品给我留下了深刻的印象，以至于成为组成生命的一部分。
+        1. 毛姆[月亮与六便士][面纱][刀锋]
+        2. 倪湛舸[异旅人]
+        3. 李健
+        4. 杨乃文[我离开我自己]
 </code></pre>
-<blockquote>
-<p>但工作时无法融入新集体，还没适应外企工作状态。<br>
-处于担心无法适应工作而被迫离开的情况。</p>
-</blockquote>
-<ol start="2">
-<li>where do you see yourself in 5 years?</li>
-</ol>
+<h3 id="研究生阶段">研究生阶段</h3>
+<pre><code>        跟实验室的同学玩得很开心
+        网络新朋友
+        开始跑步时开启人生新篇章
+        [跑步记录日志]
+        kindle真好
+</code></pre>
+<h3 id="工作">工作</h3>
+<pre><code>        昙花一现的感情我抓不住是时机不对
+        悟以往之不谏，知来者之可追，当年一语成谶
+        以轻度抑郁状态结束了工作
+</code></pre>
+<h3 id="生活">生活</h3>
+<pre><code>        喝了很多的酒
+        去看了一些风景
+        读了一些书
+        如何度过裸辞的过渡期
+</code></pre>
+<h2 id="30s要做什么">30s要做什么？</h2>
+<pre><code>想把自己当作方法，用成长型思维锻造下自己，看看自己还能进步到哪里。
+说白了就是不放弃治疗。
+如果放弃治疗，我猜我会放弃生命。
+</code></pre>
+<h3 id="我的当前">我的当前</h3>
+<pre><code>总体是处于我的理想状态：新的生活环境和以英文为主的工作环境。但还是要克服困难。
+从南京搬到苏州，租了条件很好的房子，买了很贵的电压力锅，组装了书桌和书架，跟猫咪的感情也日益加深。
+但工作时无法融入新集体，还没适应外企工作状态。 处于担心无法适应工作而被迫离开的情况。
+</code></pre>
+<h2 id="where-do-you-see-yourself-in-5-years">Where do you see yourself in 5 years?</h2>
 <blockquote>
 <p>3年之后的全栈工程师／5年之后的架构师</p>
 </blockquote>
-<ol start="4">
-<li>how to plan my 40s</li>
-</ol>
+<h2 id="how-to-plan-my-40s">How to plan my 40s</h2>
 <blockquote>
 <p>只有一个愿望，那就是去读MFA。</p>
 </blockquote>
-<ol start="5">
-<li>人生结束于何处？</li>
-</ol>
+<h2 id="人生结束于何处">人生结束于何处？</h2>
 <blockquote>
 <p>最后一个愿望实现的时候</p>
 </blockquote>
@@ -90,6 +80,29 @@ kindle真好</li>
 [Coursera-SOA]<br>
 [Geektime-算法与数据结构之美]<br>
 [7天算法训练营]</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020年读书记录]]></title>
+        <id>https://qingmu1105.github.io/post/2020-nian-du-shu-ji-lu/</id>
+        <link href="https://qingmu1105.github.io/post/2020-nian-du-shu-ji-lu/">
+        </link>
+        <updated>2020-06-24T08:21:01.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://book.douban.com/subject/26705289/">三十三年梦</a><br>
+[北方的空地]<br>
+[天平之甍]<br>
+[娱乐至死]<br>
+[雨]<br>
+[如父如子]<br>
+[当呼吸化为空气]<br>
+[我是谁，如果有我，有几个我]<br>
+[爱你就像爱生命]<br>
+[暗夜街]<br>
+[万寿寺]<br>
+[橘子不是唯一的水果]<br>
+[箭术禅心]<br>
+[禅与摩托车旅行]<br>
+[何为良好生活]</p>
 ]]></content>
     </entry>
     <entry>
